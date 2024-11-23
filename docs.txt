@@ -1,0 +1,23 @@
+
+
+basic setup
+    --file_&_folderStructure
+    --server making
+    --routes making(using express , controllers )
+    --body-parser (post routes)
+    --db setup
+    --
+    --errorHandling
+
+routing
+    --signup
+    --signin
+
+password encryption
+    --using bcryptjs package
+    --comparing password 
+
+
+cookies- session -token
+    --cookies-parser , express-session
+    --
